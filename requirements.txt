@@ -3,5 +3,4 @@ flask-restful
 gunicorn
 requests
 twilio
-twilio-twiml-messaging_response
 newsapi
